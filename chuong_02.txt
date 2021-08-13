@@ -1,44 +1,66 @@
     Học giả Thu Giang có viết: Trong các nhà văn tài hoa nhất phần nhiều là những người đau yếu, bệnh hoạn, hoặc là sớm bị dở dang trắc trở.
-Tôi (người viết) là người khỏe mạnh, bình thường, không đau không yếu, cũng chẳng gặp khó khăn gì trong cuộc đời, chỉ mong hoàn thành được tiểu thuyết 3 xu này.
-Hi vọng mọi người cùng đọc giải trí và góp ý, được vậy người viết xin cảm tạ lắm lắm.
+Tôi (người viết) là người khỏe mạnh bình thường, không đau không yếu, cũng chẳng gặp khó khăn gì trong cuộc đời, chỉ mong hoàn thành được tiểu thuyết 3 xu này.
+Hi vọng mọi người cùng đọc giải trí và góp ý, được vậy người viết xin được cảm tạ lắm lắm.
 Chúc mọi người một ngày vui.
 
 Chương 2: Sinh nhật
 
+    1h sau thì bạn cùng phòng của anh về. Trong bữa cơm anh mới khai:
+"Tao làm mất mũ bảo hiểm của mày rồi". Bạn anh vẻ mặt sửng sốt: "Mất là mất thế nào, làm sao mà mất, mũ bảo hiểm mồi của tôi, ông tìm về đi".
+"Mày lấy mũ tao mà đội" - "Không được" - "Để mai tao mua cho mày hai cái mới y thế" - "Không nghe".
+"Trên đường tao chở gái về nhà, tao thì không quen cô ấy, lúc xuống xe tao quên không lấy mũ về. Giờ làm sao trả mày được" - "Thì gọi điện cho em nó"
+"Nhưng tao không xin số điện thoại" - "Tôi chịu, mai ông sang cắm trại ở cổng nhà em nó mà đòi".
+
+    Ăn cơm xong thì thằng bạn đầu đểu lên giường năm ngay. Vẫn là mình tự cứu lấy mình thôi.
+Xưa nay vẫn vậy, anh thường tự mình giải quyết vấn đề. "Backward thinking" mình cần gì và mình có gì.
+Thứ anh giỏi nhất là lập trình, nên lần này anh cũng định dùng lập trình để giải quyết.
+Mình cần đòi lại mũ bảo hiểm. Mình cần liên lạc với em đó. Vậy làm sao để liên hệ, chắc là tìm trên mạng xã hội. Anh vẫn nhớ thầy dạy machine learning của mình từng nói: 
+chỉ cần qua 7 kết nối là người bình thường có thể chạm tới tổng thống Mỹ. Nếu như không tìm thấy nữa chắc chỉ còn cách cắm trại ở cổng, chờ em nó ra đường vậy.
+Huy động 10.000 máy tính zombie, anh chiếm quyền điều khiển nhờ vào lỗi zero-day mà trước đó anh đã từng khai thác được.
+Cào dữ liệu của hơn 2 nghìn tỷ nick facebook, tìm với tiêu chí là nữ, tên Thảo, liên quan đến trường Đại học Kinh tế quốc dân.
+Dữ liệu nhận về là hơn 500 nick facebook phù hợp. Anh phải ngồi vào kiểm tra bằng cơm loại bỏ đi những tên nick anh cho là không phù hợp như: Thảo Khấu, Thảo Nào. 
+Cũng loại những tên tưởng là con trai nhưng để giới tính nữ như Nguyễn Duy Thảo ra, vẫn còn đến 400 nick cần kiểm tra.
+Tên nick như Thảo thật thà, Thảo thông thái, Thảo thân thiện, Cô giáo Thảo đều là có khả năng.
+Đến nick thứ 200 thì tìm thấy ảnh đại diện của cô đang ôm đàn guitar, tay bấm hợp âm Sol trưởng, mắt lim dim, mặt cười toe toét.
+Anh đơ ra hơn phút mới nhấn nút gửi lời mời kết bạn.
+
+    Tối hôm sau thì cô gái đồng ý lời mời kết bạn của anh trên facebook. Anh gọi điện cho cô. 
+Cô nhận được yêu cầu video call, cũng lấy làm thắc mắc không biết thằng hâm nào, nhắn tin không nhắn mà lại gọi điện thế này. Cô bấm nghe nhưng đương nhiên không mở hình.
+
     "Chào em"
-    "Hôm trước em ngồi sau xe anh đây nhớ không?" - anh vào việc ngay
+    "Hôm trước em ngồi sau xe anh đây nhớ không?" - anh hỏi
     
-    "À vai anh, à đúng rồi, vâng mà sao anh có facebook của em vậy." - cô thắc mắc
+    "À vai anh, à nhầm, vâng mà răng anh có facebook của em vậy." - cô thắc mắc
 
-    "Truyện dài lắm, mà anh có để quên mũ bảo hiểm ở chỗ em không?" - anh hỏi
+    "Chuyện dài lắm, anh có để quên mũ bảo hiểm ở chỗ em không?" - anh vào việc ngay
 
-    "Có, em treo lên cẩn thận cho anh rồi. Hay để em mời anh kem hoa quả nhé. Anh thấy sao" - cô đáp
+    "Có ạ.. em treo lên cẩn thận cho anh rồi. Hay để em mời anh kem hoa quả nhé. Anh thấy răng" - cô đáp
 
     "Ừ vậy em rảnh hôm nào?" - anh hỏi
 
-    "Thứ 7 này anh rảnh không?" - cô hỏi
+    "Thứ 7 này anh rảnh không?" - cô gợi ý
 
-    "Ừ anh rảnh"
+    "Anh rảnh"
 
     "Vậy gặp anh thứ 7 này nha, 7 giờ tối, tại quán ABC, đường XYZ..." - đương nhiên địa điểm sẽ gần trường kinh tế quốc dân
 
-    "À anh có thể rủ bạn anh không?.. mũ bảo hiểm là của nó" - Anh hi vọng..
+    "À anh có thể rủ bạn anh đi cùng không?.. mũ bảo hiểm là của nó" - Anh hi vọng..
 
-    Cô nghĩ đồ ngốc đi chơi với gái còn dẫn bạn đi cùng làm gì..
+    Cô nghĩ: đồ ngốc đi chơi với gái còn dẫn bạn đi cùng làm gì..
 
     "Ừ vậy em cũng rủ bạn em đi cùng" - Cô đáp.
 
     "Anh cảm ơn nhé".
 
-    "Không có gì ạ, bye bye anh".
+    "Ò, bye bye anh".
 
     "Bye em"
 
-    Tối thứ 7, 7h kém 10 phút, hai anh đến nơi, anh vẫn quần jean, giày converse, áo thun. Bạn anh thì ăn mặc có phần thời trang hơn.
+    Tối thứ 7, 7h kém 10 phút, hai anh đến nơi, anh vẫn quần jean, áo thun, giày converse. Bạn anh thì ăn mặc có phần thời trang hơn.
 Chờ đâu 15 phút thì hai cô cũng đến. Thảo mặc váy kẻ ca rô, vai đeo túi xách, tay mang đồng hồ, trông hết sức xinh xắn. Dẫn theo một bạn gái còn có phần hút hồn hơn.
-Cô gái vẫy tay anh, anh vẫy lại chào lại cô. Ngồi xuống gọi kem hoa quả.
+Để ngày tháng giông dài tôi sẽ tả cho các bạn hay. Cô gái vẫy tay anh, anh vẫy tay chào lại cô. Ngồi xuống gọi kem hoa quả.
 
-    "Hai bạn gái đây vẫn chưa biết tên anh phải không. Giới thiệu văn xuôi thì bình thường quá, chi bằng giới thiệu văn vần đi. Để mình bắt đầu trước."
+    "Hai bạn gái đây vẫn chưa biết tên anh phải không. Giới thiệu bằng văn xuôi thì bình thường quá, chi bằng giới thiệu văn vần đi. Để mình bắt đầu trước."
 
     "Họ Phạm tên Văn cha anh đặt
     Hai ba năm chẵn mẹ anh nuôi
@@ -65,7 +87,7 @@ Bạn gái Thảo ngồi cạnh lên tiếng. "Em không định giới thiệu 
 
 Đến lượt anh, vẻ mặt hết sức căng thẳng, thằng khốn Văn đẩy mình vào thế khó.
 
-    "Ừ ừ thơ phải không... ừm ừm"
+    "Ừ ừ thơ phải không... ừm ừm.."
 
     "Nắng vàng, cát trắng, biển xanh... " - Lục bát vẫn là dễ hơn cả.
 
@@ -91,10 +113,10 @@ Nguyên đứng dậy trả tiền.
 
     "Lần này để anh mời, sinh nhật thằng Văn mà, để em trả sao được" - Anh từ chối
 
-    "Ò" - Thảo đáp, tay vẫn để trên tay anh.
+    "Ò" - Thảo đáp, tay cô vẫn để trên tay anh.
 
     Thanh toán xong, hai người cùng nhau bước ra ngoài. Văn và Mai đã ra khỏi quán từ lâu, đã bắn qua lại tầm 20 câu không dưới. 
-Nguyên chở Văn, Mai chở Thảo chung nhau một đoạn đường về nhà Thảo Mai, rồi Nguyên và Văn đèo nhau về lại Nhổn trên chiếc honda wave RSX màu xanh.
+Nguyên chở Văn, Mai chở Thảo chung nhau một đoạn đường về nhà Thảo, Mai, rồi Nguyên, Văn đèo nhau về lại Nhổn trên chiếc honda wave RSX màu xanh.
 
     Về đến phòng, Văn nằm giường lướt nvck.xyz.
     Nguyên lại mở máy tính lên, cập nhật vào /mai_do/index.txt, /thao_husky/index.txt, quan trọng hơn là note thêm vào file /me/todo.txt:
