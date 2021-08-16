@@ -8,16 +8,16 @@ Chương 2: Kem hoa quả
     1h sau thì bạn cùng phòng của anh về. Trong bữa cơm anh mới khai:
 "Tao làm mất mũ bảo hiểm của mày rồi". Bạn anh vẻ mặt sửng sốt: "Mất là mất thế nào, làm sao mà mất, mũ bảo hiểm mồi của tôi, ông tìm về đi".
 "Mày lấy mũ tao mà đội" - "Không được" - "Để mai tao mua cho mày hai cái mới y thế" - "Không nghe".
-"Trên đường tao chở gái về nhà, tao thì không quen cô ấy, lúc xuống xe tao quên không lấy mũ về. Giờ làm sao trả mày được" - "Thì gọi điện cho em nó"
+"Trên đường tao cho gái đi nhờ, tao thì không quen cô ấy, lúc xuống xe tao quên không lấy mũ về. Giờ làm sao trả mày được" - "Thì gọi điện cho em nó"
 "Nhưng tao không xin số điện thoại" - "Tôi chịu, mai ông sang cắm trại ở cổng nhà em nó mà đòi".
 
     Ăn cơm xong thì thằng bạn đểu lên giường nằm ngay. Vẫn là mình tự cứu lấy mình thôi.
 Xưa nay vẫn vậy, anh thường tự mình giải quyết vấn đề. "Backward thinking" mình cần gì và mình có gì.
 Thứ anh giỏi nhất là lập trình, nên lần này anh cũng định dùng lập trình để giải quyết.
 Mình cần đòi lại mũ bảo hiểm. Mình cần liên lạc với em đó. Vậy làm sao để liên hệ, chắc là tìm trên mạng xã hội. Anh vẫn nhớ thầy dạy machine learning của mình từng nói: 
-chỉ cần qua 7 kết nối là người bình thường có thể chạm tới tổng thống Mỹ. Nếu như không tìm thấy nữa chắc chỉ còn cách cắm trại ở cổng, chờ em nó ra đường vậy.
+Chỉ cần qua 7 kết nối là người bình thường có thể chạm tới tổng thống Mỹ. Nếu như không tìm thấy nữa chắc chỉ còn cách cắm trại ở cổng, chờ em nó ra đường vậy.
 Huy động 10.000 máy tính zombie, anh chiếm quyền điều khiển nhờ vào lỗi zero-day mà trước đó anh đã từng khai thác được.
-Cào dữ liệu của hơn 2 nghìn tỷ nick facebook, tìm với tiêu chí là nữ, tên Thảo, liên quan đến trường Đại học Kinh tế quốc dân.
+Cào dữ liệu của hơn 2 nghìn tỷ tài khoản facebook, tìm với tiêu chí là nữ, tên Thảo, liên quan đến trường Đại học Kinh tế quốc dân.
 Dữ liệu nhận về là hơn 500 nick facebook phù hợp. Anh phải ngồi vào kiểm tra bằng cơm loại bỏ đi những tên nick anh cho là không phù hợp như: Thảo Khấu, Thảo Nào. 
 Cũng loại những tên tưởng là con trai nhưng để giới tính nữ như Thảo Nguyễn Duy ra, vẫn còn đến 400 nick cần kiểm tra.
 Tên nick như Thảo thật thà, Thảo thông thái, Thảo thân thiện, Cô giáo Thảo đều là có khả năng.
