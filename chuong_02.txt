@@ -3,7 +3,7 @@ Tôi (người viết) là người khỏe mạnh bình thường, không đau k
 Hi vọng mọi người cùng đọc giải trí và góp ý, được vậy người viết xin được cảm tạ lắm lắm.
 Chúc mọi người một ngày vui.
 
-Chương 2: Sinh nhật
+Chương 2: Kem hoa quả
 
     1h sau thì bạn cùng phòng của anh về. Trong bữa cơm anh mới khai:
 "Tao làm mất mũ bảo hiểm của mày rồi". Bạn anh vẻ mặt sửng sốt: "Mất là mất thế nào, làm sao mà mất, mũ bảo hiểm mồi của tôi, ông tìm về đi".
@@ -11,7 +11,7 @@ Chương 2: Sinh nhật
 "Trên đường tao chở gái về nhà, tao thì không quen cô ấy, lúc xuống xe tao quên không lấy mũ về. Giờ làm sao trả mày được" - "Thì gọi điện cho em nó"
 "Nhưng tao không xin số điện thoại" - "Tôi chịu, mai ông sang cắm trại ở cổng nhà em nó mà đòi".
 
-    Ăn cơm xong thì thằng bạn đầu đểu lên giường năm ngay. Vẫn là mình tự cứu lấy mình thôi.
+    Ăn cơm xong thì thằng bạn đểu lên giường nằm ngay. Vẫn là mình tự cứu lấy mình thôi.
 Xưa nay vẫn vậy, anh thường tự mình giải quyết vấn đề. "Backward thinking" mình cần gì và mình có gì.
 Thứ anh giỏi nhất là lập trình, nên lần này anh cũng định dùng lập trình để giải quyết.
 Mình cần đòi lại mũ bảo hiểm. Mình cần liên lạc với em đó. Vậy làm sao để liên hệ, chắc là tìm trên mạng xã hội. Anh vẫn nhớ thầy dạy machine learning của mình từng nói: 
@@ -19,7 +19,7 @@ chỉ cần qua 7 kết nối là người bình thường có thể chạm tớ
 Huy động 10.000 máy tính zombie, anh chiếm quyền điều khiển nhờ vào lỗi zero-day mà trước đó anh đã từng khai thác được.
 Cào dữ liệu của hơn 2 nghìn tỷ nick facebook, tìm với tiêu chí là nữ, tên Thảo, liên quan đến trường Đại học Kinh tế quốc dân.
 Dữ liệu nhận về là hơn 500 nick facebook phù hợp. Anh phải ngồi vào kiểm tra bằng cơm loại bỏ đi những tên nick anh cho là không phù hợp như: Thảo Khấu, Thảo Nào. 
-Cũng loại những tên tưởng là con trai nhưng để giới tính nữ như Nguyễn Duy Thảo ra, vẫn còn đến 400 nick cần kiểm tra.
+Cũng loại những tên tưởng là con trai nhưng để giới tính nữ như Thảo Nguyễn Duy ra, vẫn còn đến 400 nick cần kiểm tra.
 Tên nick như Thảo thật thà, Thảo thông thái, Thảo thân thiện, Cô giáo Thảo đều là có khả năng.
 Đến nick thứ 200 thì tìm thấy ảnh đại diện của cô đang ôm đàn guitar, tay bấm hợp âm Sol trưởng, mắt lim dim, mặt cười toe toét.
 Anh đơ ra hơn phút mới nhấn nút gửi lời mời kết bạn.
@@ -60,6 +60,7 @@ Cô nhận được yêu cầu video call, cũng lấy làm thắc mắc không 
 Chờ đâu 15 phút thì hai cô cũng đến. Thảo mặc váy kẻ ca rô, vai đeo túi xách, tay mang đồng hồ, trông hết sức xinh xắn. Dẫn theo một bạn gái còn có phần hút hồn hơn.
 Để ngày tháng giông dài tôi sẽ tả cho các bạn hay. Cô gái vẫy tay anh, anh vẫy tay chào lại cô. Ngồi xuống gọi kem hoa quả.
 
+Bạn cùng phòng anh là người quảng giao, ai cũng có thể bắt chuyện được. Nên bạn anh nhập đề ngay.
     "Hai bạn gái đây vẫn chưa biết tên anh phải không. Giới thiệu bằng văn xuôi thì bình thường quá, chi bằng giới thiệu văn vần đi. Để mình bắt đầu trước."
 
     "Họ Phạm tên Văn cha anh đặt
@@ -104,7 +105,7 @@ Ngưng lại câu giờ. "Ok, biển xanh, cát trắng, nắng vàng - nghỉ m
 
     "Ừ Đại số nhóm Lie anh cũng biết một chút" - Anh đáp.
 
-    Bốn người cứ thế rả rích nói truyện, Phạm Văn vốn là người thú vị, ngồi với anh chẳng bao giờ hết chuyện cả. Cứ vậy cho đến 9h đêm, mọi người bàn về.
+    Bốn người cứ thế rả rích nói chuyện, Phạm Văn vốn là người thú vị, ngồi với anh chẳng bao giờ hết chuyện cả. Cứ vậy cho đến 9h đêm, mọi người bàn về.
 Nguyên đứng dậy trả tiền. 
 
     "Anh ơi, tính tiền cho em bàn số 7 với ạ". - Anh gọi chủ quán
@@ -117,6 +118,9 @@ Nguyên đứng dậy trả tiền.
 
     Thanh toán xong, hai người cùng nhau bước ra ngoài. Văn và Mai đã ra khỏi quán từ lâu, đã bắn qua lại tầm 20 câu không dưới. 
 Nguyên chở Văn, Mai chở Thảo chung nhau một đoạn đường về nhà Thảo, Mai, rồi Nguyên, Văn đèo nhau về lại Nhổn trên chiếc honda wave RSX màu xanh.
+Trên đường Văn hỏi Nguyên: "Ông thấy bạn Mai thế nào?". Nguyên đáp "Cũng xinh xắn, giỏi thơ văn, có vẻ hợp với mày".
+Văn: "Xinh nhưng ăn những hai suất kem hoa quả, miệng ăn núi lở, gái như thế có cho tôi cũng chịu". 
+Nguyên không nói gì chỉ thầm rằng anh mới là người trả tiền cơ mà.
 
     Về đến phòng, Văn nằm giường lướt nvck.xyz.
     Nguyên lại mở máy tính lên, cập nhật vào /mai_do/index.txt, /thao_husky/index.txt, quan trọng hơn là note thêm vào file /me/todo.txt:
